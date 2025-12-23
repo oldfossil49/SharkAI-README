@@ -73,9 +73,14 @@ A complete list of these materials is provided in the Literature Cited section o
 
 ## Installation and Usage
 
-Generally not applicable in this data and information archive. The R code, provided in this contribution for specific instances of data generation and statistical analyses, can be enabled using R or R Studio open source software (R Core Team 2022).
-The README file uses .md file format (e.g., can be accessed with github editor).
+Installation is generally not applicable in this data and information archive.
+
+Usage
+R code, provided in this contribution for specific instances of data generation and statistical analyses, can be enabled using R or R Studio open source software (R Core Team 2022).
 The R code is presented in .R file format.
+README file uses .md file format (e.g., can be accessed with github editor).
+Sections containing text are presented in .rtf file format.
+Data spreadsheet-style tables are presnetd in .csv file format.
 
 ## License
 
