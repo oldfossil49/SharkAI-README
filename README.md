@@ -14,22 +14,25 @@ With the growing application of artificial intelligence (AI) and machine learnin
 
 ## Supplementary Materials—Table of Contents
 
-1. Read Me
+(Abbreviation: ML, machine learning)
+1. Contents and README
 2. Complete study image data set
 3. Optimal pixel density
    - a. Context
-   - b. Database of ML model results
-   - c. R code and statistical results
+   - b. Statistical results
+   - c. Database of ML model results
 4. Original Python-Tensorflow files, including model code
 5. Optimal performance, 50 to 500 samples per class
-   - a. Database of ML model results without Fine Tuning
-   - b. Database of ML model results with Fine Tuning
-   - c. R code and statistical results
+   - a. Statistical results
+   - b. Database of ML model results without Fine Tuning
+   - c. Database of ML model results with Fine Tuning
+   - d. Database of variance
 6. Data augmentation
-   - a. Database of ML model results
-   - b. R code and statistical results
+   - a. Statistical results
+   - b. Database of ML model results
 7. Misidentification analysis
 8. GBIF plots of fossil Lamnidae and Carcharhinidae
+9. R code for data presented in sections 3, 5, and 6
 
 ## Authors/Affiliations
 
@@ -71,6 +74,8 @@ A complete list of these materials is provided in the Literature Cited section o
 ## Installation and Usage
 
 Generally not applicable in this data and information archive. The R code, provided in this contribution for specific instances of data generation and statistical analyses, can be enabled using R or R Studio open source software (R Core Team 2022).
+The README file uses .md file format (e.g., can be accessed with github editor).
+The R code is presented in .R file format.
 
 ## License
 
@@ -82,7 +87,7 @@ Not applicable to this archive.
 
 ## Support/Help
 
-Contact the Corresponding author at:
+Until further notice, contact the Corresponding author at:
 - bmacfadd@ufl.edu
 - brucemacfadden@gmail.com
 
